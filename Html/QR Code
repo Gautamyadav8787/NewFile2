@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script src="index2.js"></script>
+    <div class="page"></div>
+    <div class="wrapper">
+        <header>
+        <h1>QR Code Generator</h1>
+        <p>Paste a url or enter text to create QR code</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, distinctio. Sint, sed officia odit doloremque eius maxime? Ipsam excepturi fugiat iste beatae, soluta aperiam molestiae obcaecati vero libero aut earum.</p>
+        </header>
+        <div class="form">
+        <input type="text" spellcheck="false" placeholder="Enter text or url"> <button>Generate QR Code</button>
+        </div>
+        <div class="qr-code">
+        <img src="" alt="qr-code">
+        </div>
+        </div>
+
+</body>
+</html>
