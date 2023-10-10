@@ -1,0 +1,83 @@
+*{
+    background-color: paleturquoise;
+}
+.class{
+    color:rgb(6, 18, 3);
+    background-color: rgb(215, 187, 243);
+    width: 100%;
+    font-size: 20px;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+.button{
+    color: black;
+    background-color: yellow;
+    text-align-last: 20px;
+    padding: auto;
+    margin-top: 20px;
+    letter-spacing:2px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+.text{
+    background-color: pink;
+    text-align:center;
+}
+h1{
+    text-align: left;
+    text-decoration:underline;
+    background-color: aliceblue;
+    
+}
+h2{
+    background-color:burlywood;
+    font-weight:lighter;
+text-decoration: underline;
+width: 120px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    width: 100px;
+    background-color: bisque;
+    font-weight:;
+    font-family:'Times New Roman', Times, serif
+    
+}
+.Heading2{
+    background-color: rgb(251, 131, 155);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-transform: capitalize;
+}
+.Heading3{
+    background-color:rgb(230, 255, 189);
+    font-family: cursive;
+    font-size: 16px;
+     text-transform: uppercase;
+}
+h4{
+    font-size:20px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform:uppercase ;
+    font-family: 'Times New Roman', Times, serif;
+background-color: antiquewhite;
+}
+.title{
+    background-color: rgb(191, 214, 73);
+height: 200px;
+width: 200px;
+text-align: center;
+margin: 100px;
+margin-top: 10px;
+margin-top: 0%;
+}
+
+.outer{
+    font-size: 25px;
+    color: gray;
+}
+.inner{
+    font-size: 19px;
+    color: brown;
+}
